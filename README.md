@@ -13,6 +13,8 @@ Overweight
 Obese
 Simple and user-friendly interface
 Fast and responsive design
+
+
 🛠️ Technologies Used
 Flutter
 Dart
@@ -24,6 +26,8 @@ lib/
 ├── widgets/
 ├── models/
 └── utils/
+
+
 🚀 Getting Started
 Prerequisites
 Flutter SDK
@@ -34,11 +38,15 @@ git clone https://github.com/your-username/bmi-calculator.git
 cd bmi-calculator
 flutter pub get
 flutter run
+
+
 📱 How to Use
 Enter your height.
 Enter your weight.
 Tap the Calculate BMI button.
 View your BMI value and health category.
+
+
 📊 BMI Categories
 BMI Range	Category
 Below 18.5	Underweight
