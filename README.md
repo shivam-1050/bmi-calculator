@@ -4,6 +4,7 @@ BMI Calculator
 BMI Calculator is a Flutter application that calculates a user's Body Mass Index (BMI) based on their height and weight. It provides the BMI value along with the corresponding health category to help users understand their body weight status.
 
 ✨ Features
+
 Calculate BMI using height and weight
 Display BMI value instantly
 Show BMI category:
@@ -16,6 +17,7 @@ Fast and responsive design
 
 
 🛠️ Technologies Used
+
 Flutter
 Dart
 Material Design
@@ -29,6 +31,7 @@ lib/
 
 
 🚀 Getting Started
+
 Prerequisites
 Flutter SDK
 Dart SDK
@@ -41,6 +44,7 @@ flutter run
 
 
 📱 How to Use
+
 Enter your height.
 Enter your weight.
 Tap the Calculate BMI button.
@@ -48,6 +52,7 @@ View your BMI value and health category.
 
 
 📊 BMI Categories
+
 BMI Range	Category
 Below 18.5	Underweight
 18.5 – 24.9	Normal Weight
